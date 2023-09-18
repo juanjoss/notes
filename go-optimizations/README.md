@@ -7,6 +7,11 @@
 - Gargabe Collector ([here](./garbage_collector/README.md))
 - Struct Field Ordering ([here](./struct_field_order/README.md))
 
+## Resources Used
+
+- Personal [talks playlist](https://www.youtube.com/playlist?list=PLoLPoXSOmC0ZgI83alrdJa0MlktMkTIiF).
+- The [go-perfbook](https://github.com/dgryski/go-perfbook).
+
 ## WIP
 
 ### GOGC, GOMEMLIMIT and Pacing
